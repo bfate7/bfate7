@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fateh</h1>
 <h3 align="center">A passionate Full Stack developer from Algeria</h3>
 
-- 👨‍💻 My portfolio is available at [https://bfate7.github.io/](https://bfate7.github.io/)
+- 👨‍💻 My portfolio is available at 
 
 - 📫 How to reach me **fateh.developer@gmail.com**
 
